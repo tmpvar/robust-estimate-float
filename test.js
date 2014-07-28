@@ -23,3 +23,14 @@ test('split/join', function(t) {
 
   t.end();
 });
+
+test('large', function(t) {
+
+  var predicate = [];
+  for (var i=0; i<10; i++) {
+    t.equal(i, estimate(predicate));
+    predicate.push(1);
+  }
+
+  t.end();
+});
