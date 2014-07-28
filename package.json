@@ -24,6 +24,7 @@
   "homepage": "https://github.com/tmpvar/robust-estimate-float",
   "devDependencies": {
     "robust-split": "^1.0.0",
-    "tape": "^2.13.4"
+    "tape": "^2.13.4",
+    "two-sum": "^1.0.0"
   }
 }
