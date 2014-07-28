@@ -32,4 +32,4 @@ console.log(est(r)) // 0.30000000000000004
 
 # license
 
-[MIT](LICENSE.TXT)
+[MIT](LICENSE.txt)
